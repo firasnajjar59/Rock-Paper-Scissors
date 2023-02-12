@@ -1,3 +1,4 @@
+"""Module providingFunction printing python version."""
 import random
 import asciArt
 print(asciArt.logo)
